@@ -81,12 +81,11 @@ Then open the relevant notebook from the selected `YYYY-Materials` directory.
 
 ## Suggested workflow for students
 
-1. Review the corresponding lecture notes before class.
-2. Open the notebook or interactive material for the session.
-3. Run cells sequentially and inspect the outputs.
-4. Modify parameters, models, or datasets to test your understanding.
-5. Record observations about performance, design trade-offs, and sustainability implications.
-6. Revisit the material after class and complete any unfinished exercises.
+1. Open the notebook or interactive material for the session.
+2. Run cells sequentially and inspect the outputs.
+3. Modify parameters, models, or datasets to test your understanding.
+4. Record observations about performance, design trade-offs, and sustainability implications.
+5. Revisit the material after class and complete any unfinished exercises.
 
 ## Adding a new course offering
 
